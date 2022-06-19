@@ -1,0 +1,10 @@
+<ServiceInfo Version="2.0" Key="RX">
+<FriendlyName>Rixy Store!</FriendlyName>
+<Color MediaPlayer="#0063B0"/>
+<Image MenuURL="" ServiceLargeURL=""/>
+<ServiceTask1 URL="http://onlinestores.metaservices.microsoft.com/serviceswitching/rixystore.aspx">
+<ButtonText>Media Guide</ButtonText>
+<ButtonTip>Media Guide</ButtonTip>
+</ServiceTask1>
+<Navigate BaseURL="http://onlinestores.metaservices.microsoft.com/serviceswitching/rixystore.aspx"/>
+</ServiceInfo>
