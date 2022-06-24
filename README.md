@@ -5,4 +5,8 @@ which then has items for some music services which works then
 
 how to host?
 
-when i got around to finding sources from windows media player that work instead of hosting it via the server itself
+1. Put the files on a webserver in the root directory
+2. add the following entry to the hosts file > [your ip] http://onlinestores.metaservices.microsoft.com/
+replace [your ip] with your actual ip for example my ip is 111.111.111.111 then put in 111.111.111.111 http://onlinestores.metaservices.microsoft.com/
+3. start up windows media player and if the store you see is media guide then it works however if you see bing as the default store it doesnt work yet correctly
+4. if it works then enjoy!
